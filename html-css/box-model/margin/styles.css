@@ -1,0 +1,21 @@
+* { margin: 0 }
+
+div, section {
+  width: 100px;
+  height: 100px;
+  border: 1px solid red;
+/* 
+  display: inline;
+  margin: 0 2px; */
+
+  /* margin: 10%;
+  margin: auto; */
+}
+
+div {
+  margin-bottom: 8px;
+}
+
+section {
+  margin-top: 8px;
+}
