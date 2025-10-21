@@ -1,0 +1,14 @@
+.text-xs { font-size: 12px; }
+.text-sm { font-size: 14px; }
+.text-md { font-size: 16px; }
+.text-lg { font-size: 18px; }
+.text-xl { font-size: 20px; }
+.text-2xl { font-size: 24px; }
+
+.text-red-50 { color: rgb(244, 229, 229); }
+.text-red-100 { color: rgb(255, 222, 222); }
+.text-red-200 {  }
+.text-red-300 {  }
+.text-red-400 {  }
+.text-red-500 { color: rgb(245, 109, 109); }
+.text-red-900 { color: red; }
